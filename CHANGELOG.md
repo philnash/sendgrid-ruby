@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+[2020-06-10] Version 6.3.0
+--------------------------
+**Library - Feature**
+- [PR #425](https://github.com/sendgrid/sendgrid-ruby/pull/425): verify signature from event webhook. Thanks to [@eshanholtz](https://github.com/eshanholtz)!
+
+
 [2020-05-13] Version 6.2.1
 --------------------------
 **Library - Fix**
